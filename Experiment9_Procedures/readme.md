@@ -1,5 +1,6 @@
 # Experiment 9: PL/SQL – Procedures and Functions
-
+## Name: VINOTH M P
+## Reg.no: 212222040182
 ## AIM
 To understand and implement procedures and functions in PL/SQL for performing various operations such as calculations, decision-making, and looping.
 
