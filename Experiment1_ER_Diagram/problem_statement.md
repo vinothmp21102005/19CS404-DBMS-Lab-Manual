@@ -45,14 +45,15 @@ Design a database for patient management, appointments, medical records, and bil
    - Why you chose the entities and relationships.
    - How you modeled prerequisites or billing.
 
-# ER Diagram Submission - Student 
-## Name: VINOTH M P 
-## Reg.no:21223240182
+## ER Diagram Submission - Student 
+### Name:VINOTH M P 
+### Reg.no:21223240182
 
 ## Scenario Chosen:
-University 
+### University 
 
 ## ER Diagram:
+![image](https://github.com/user-attachments/assets/9b9a390b-2f22-42f7-895d-72ba5a11d573)
 
 
 ## Entities and Attributes:
