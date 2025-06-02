@@ -1,6 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-## Name: VINOTH M P
-## Reg.no: 212222040182
+### Name:VINOTH M P 
+### Reg.no:212223240182
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
