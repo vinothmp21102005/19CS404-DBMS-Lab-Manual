@@ -1,6 +1,6 @@
 # Experiment 10: PL/SQL – Triggers
-## Name: VINOTH M P
-## Reg.no: 212222040182
+### Name:VINOTH M P 
+### Reg.no:212223240182
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
 
