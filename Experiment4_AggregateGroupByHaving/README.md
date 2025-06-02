@@ -1,6 +1,6 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## Name : VINOTH M P
-## Reg.no: 212222040182
+### Name:VINOTH M P 
+### Reg.no:212223240182
 ## AIM
 To study and implement aggregate functions, GROUP BY, and HAVING clause with suitable examples.
 
