@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
-## Name: VINOTH M P
-## Reg.no:212222040182
+### Name:VINOTH M P 
+### Reg.no:212223240182
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
