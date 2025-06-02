@@ -47,7 +47,7 @@ Design a database for patient management, appointments, medical records, and bil
 
 ## ER Diagram Submission - Student 
 ### Name:VINOTH M P 
-### Reg.no:21223240182
+### Reg.no:212223240182
 
 ## Scenario Chosen:
 ### University 
