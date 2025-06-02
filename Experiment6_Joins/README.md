@@ -1,6 +1,6 @@
 # Experiment 6: Joins
-## Name: VINOTH M P
-## Reg.no: 212222040182
+### Name:VINOTH M P 
+### Reg.no:212223240182
 ## AIM
 To study and implement different types of joins.
 
